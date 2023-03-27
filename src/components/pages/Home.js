@@ -2,6 +2,7 @@ import React from 'react';
 import '../../styles/Header.css';
 import headshot from '../assets/headpic.jpg'
 import workdayPlanner from '../assets/workdayplanner.png'
+import Password from '../assets/Password generator.png'
   function Home() { 
     return (
       <body>
@@ -20,7 +21,9 @@ import workdayPlanner from '../assets/workdayplanner.png'
           </p>
           <iframe class="demo" width="560" height="315" src="https://www.youtube.com/embed/NIAr9hsnWFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           <p>This is a work-day planner that will display information entered as past, present, future, colors to indicate what event is happening and if it has already past or will be occurring.</p>
-        <a href="https://github.com/alarbig/Workaday-Planner"><img id="img2"src={workdayPlanner} alt="Workday planner screenshot"></img></a>    
+        <a href="https://github.com/alarbig/Workaday-Planner"><img id="img2"src={workdayPlanner} alt="Workday planner screenshot"></img></a>   
+        <p>With this password generator you can quickly create a strong password with just a few clicks! This was a really fun project to work and a great intro to JavaScript.</p>
+        <a href="https://github.com/alarbig/password-maker"><img id="img2"src={Password} alt="Password screenshot"></img></a> 
       </div>
     </main>  
     <div> 
