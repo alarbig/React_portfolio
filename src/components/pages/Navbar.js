@@ -11,6 +11,7 @@ function Navbar() {
           <li><a href="https://github.com/alarbig" class="link-tag" target="_blank">Github</a></li>
           <li><a href="https://jcg0.github.io/project-1-recipesy/" class="link-tag" target="_blank">Project 1</a></li>
           <li><a href="https://baby-journal.herokuapp.com/login" class="link-tag" target="_blank">Project 2</a></li>
+          <li><a href="https://kill-all-tires.herokuapp.com/" class="link-tag" target="_blank">Project 3</a></li>
           <li><a href='mailto:agrlarbig@gmail.com' class="link-tag" target="_blank">Contact Me</a></li>
           <li class='link-tag'>Resume</li>
          </ul>
