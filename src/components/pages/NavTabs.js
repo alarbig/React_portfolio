@@ -65,6 +65,13 @@ function NavTabs({ currentPage, handlePageChange }) {
           Baby Journal
         </a>
       </li>
+      <li className="nav-item">
+        <a
+          href="https://kill-all-tires.herokuapp.com/" class="link-tag" target="_blank"
+        >
+          Kill-All-Tires
+        </a>
+      </li>
     </ul>
   );
 }
