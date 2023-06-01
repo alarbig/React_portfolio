@@ -27,7 +27,7 @@ function Form() {
 
   return ( 
     <div class='box2'>
-      <form className="form">
+      {/* <form className="form">
         <input
           value={emailAddress}
           name="email"
@@ -50,7 +50,7 @@ function Form() {
           placeholder="Last Name"
         />
         <button type="button" onClick={handleFormSubmit}>Submit</button>
-      </form>
+      </form> */}
       <div> 
       <ul>
         <li>agrlarbig@gmail.com</li>

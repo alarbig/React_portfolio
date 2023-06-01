@@ -207,6 +207,24 @@ main {
 		0 0 0 15px #3d3c55; /* black */
 }
 
+.demo {
+  display: flex;
+  justify-content: center;
+  padding-left: 50px;
+  width:560px;
+  height:315px;
+}
+
+.box3 {
+  display: flex;
+  justify-content: center;
+  min-width:5em;
+  position:relative;
+  vertical-align:top;
+  padding: 5px 10px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
 #resume{
   display: flex;
   justify-content: center;
