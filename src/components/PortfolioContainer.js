@@ -3,7 +3,7 @@ import Home from './pages/Home'
 import About from './pages/About'
 import Contact from './pages/Contact'
 import NavTabs from './pages/NavTabs';
-import Work from './pages/Work';
+import Work from './pages/Projects';
 
 export default function PortfolioContainer() {
     const [currentPage, setCurrentPage] = useState('Home');

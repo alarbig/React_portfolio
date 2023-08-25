@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.a110c104.css",
-    "main.js": "/static/js/main.a58934c8.js",
+    "main.js": "/static/js/main.80981145.js",
     "static/media/allmyfriends.jpg": "/static/media/allmyfriends.ed9c4da6f36134531b84.jpg",
     "static/media/headpic.jpg": "/static/media/headpic.9f7b918f818d236c2fee.jpg",
     "static/media/workdayplanner.png": "/static/media/workdayplanner.eda9de1ac10d46feb39b.png",
     "static/media/Password generator.png": "/static/media/Password generator.6a732afa19960c48f138.png",
     "index.html": "/index.html",
     "main.a110c104.css.map": "/static/css/main.a110c104.css.map",
-    "main.a58934c8.js.map": "/static/js/main.a58934c8.js.map"
+    "main.80981145.js.map": "/static/js/main.80981145.js.map"
   },
   "entrypoints": [
     "static/css/main.a110c104.css",
-    "static/js/main.a58934c8.js"
+    "static/js/main.80981145.js"
   ]
 }
