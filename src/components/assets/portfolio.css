@@ -84,7 +84,7 @@ footer {
   width: 99%;
   color: whitesmoke;
   text-align: center;
-  padding: 15px 0;
+  padding: 15px -2px;
 }
 
 /* footer {  
@@ -207,4 +207,9 @@ flex-direction: column;
 margin-left: 30%;
 margin-top: 30px;
 margin-bottom: 30px;
+}
+
+.contact {
+  text-align: center;
+  justify-content: center;
 }

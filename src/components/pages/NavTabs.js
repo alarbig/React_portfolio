@@ -35,7 +35,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           Projects
         </a>
       </li>
-      <li className="nav-item">
+      {/* <li className="nav-item">
         <a
           href="#contact"
           onClick={() => handlePageChange('Contact')}
@@ -44,7 +44,7 @@ function NavTabs({ currentPage, handlePageChange }) {
         >
           Contact
         </a>
-      </li>
+      </li> */}
       <li className="nav-item">
         <a
           href="https://github.com/alarbig" class="link-tag" target="_blank"

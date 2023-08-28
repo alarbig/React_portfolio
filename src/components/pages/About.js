@@ -13,11 +13,15 @@ function About() {
       <p>In my free time I like watching horror movies and spending time with my family. I also love game development and have started getting into map layouts and design. </p>
       <hr></hr>
       <img id='img-friends' src={headshot} alt='Picture of Alec'></img>
+      <ul className='contact'>
+        <ul>agrlarbig@gmail.com</ul>
+        <ul>619-623-4591</ul>
+        <ul>Github: @alarbig</ul>
+        
+        </ul> 
       </div>
-  </main>
-  <footer>
-  <p>A subsidiary of Biglar Bagels</p>
-</footer>  
+      
+  </main>  
 </body>
     )
 }
