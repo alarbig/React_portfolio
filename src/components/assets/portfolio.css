@@ -213,3 +213,26 @@ margin-bottom: 30px;
   text-align: center;
   justify-content: center;
 }
+
+#h1Tag-project {
+  display: flex;
+  justify-content: center;
+}
+
+.project-box-intro {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; /* Center horizontally */
+  margin: 20px auto; /* Center vertically */
+  padding: 10px;
+  max-width: fit-content;
+  width: 500px;
+  height: 100px;
+  background-color: black;
+}
+
+.h2Tag {
+  display: flex;
+  justify-content: center;
+}
