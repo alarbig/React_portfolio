@@ -12,7 +12,7 @@ function Projects () {
         <p class="project-box">This demo is on a README generator where you can answer a few questions and it will automatically produce a readme file for you. </p>
           <iframe class="demo" width="560" height="315" src="https://www.youtube.com/embed/kEgVUrdrewQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-          <hr></hr>
+        <hr></hr>
           <h2 className='h2Tag'>HTML Employee Generator</h2>  
           <p class="project-box">This second one was an employee generator that will automatically create new employees and generate an HTML page with their information, and manager. You answer some questions about the employee and it will make it automatically for you.</p>
 
